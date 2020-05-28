@@ -33,7 +33,12 @@ No provider.
 
 ## Inputs
 
-No input.
+| Name | Description | Type | Default | Required |
+|------|-------------|------|---------|:-----:|
+| private\_key\_path | n/a | `any` | n/a | yes |
+| public\_key\_path | n/a | `any` | n/a | yes |
+| subnet\_id | n/a | `any` | n/a | yes |
+| vpc\_security\_group\_ids | n/a | `any` | n/a | yes |
 
 ## Outputs
 
